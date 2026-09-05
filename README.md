@@ -85,7 +85,7 @@ The complete Python implementation, analysis, visualizations, and model evaluati
 
 The project was developed using Google Colab.
 
-[Open Project in Google Colab]((https://colab.research.google.com/drive/1xQtcLDWbE4TfUxVcAiCwhNrEGEJdEoL6?usp=sharing))
+[Open Project in Google Colab](https://colab.research.google.com/drive/1xQtcLDWbE4TfUxVcAiCwhNrEGEJdEoL6?usp=sharing)
 
 ## Future Improvements
 
